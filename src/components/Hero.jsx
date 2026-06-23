@@ -14,7 +14,7 @@ export default function Hero() {
             Think Wise. Choose PaisaBASE.
           </p>
 
-          <h1 className="text-5xl md:text-7xl font-bold leading-tight">
+          <h1 className="text-4xl md:text-7xl font-bold leading-tight">
             <span className="bg-gradient-to-r from-green-600 to-yellow-500 bg-clip-text text-transparent">
               Trade Smarter
             </span>
@@ -37,7 +37,7 @@ export default function Hero() {
 
           <div className="mt-10 flex gap-4 flex-wrap">
             <a
-              href="https://pf-app.paisa-base.com/signUp/?inviteCode=yYMZ8a"
+             href="https://pf-app.paisa-base.com/signUp/?inviteCode=yYMZ8a"
               className="bg-green-500 text-white px-8 py-4 rounded-xl font-bold hover:scale-105 hover:shadow-lg hover:shadow-green-500/30 transition duration-300"
             >
               Register Now
@@ -53,7 +53,7 @@ export default function Hero() {
         </div>
 
         {/* Right Poster */}
-        <div className="bg-gradient-to-r from-green-400 to-yellow-400 p-1 rounded-3xl shadow-2xl hover:scale-105 hover:rotate-1 transition duration-500">
+        <div className="bg-gradient-to-r from-green-400 to-yellow-400 p-1 rounded-3xl shadow-2xl mt-6 lg:mt-0">
           <img
             src="/poster1.png"
             alt="PaisaBASE Poster"
