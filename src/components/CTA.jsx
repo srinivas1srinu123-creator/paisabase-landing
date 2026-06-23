@@ -17,13 +17,13 @@ export default function CTA() {
         Think Wise. Choose PaisaBASE.
       </p>
 
-      <div className="flex justify-center gap-4">
+      <div className="flex justify-center gap-4 flex-wrap">
         <a
           href="https://pf-app.paisa-base.com/signUp/?inviteCode=yYMZ8a"
           target="_blank"
           rel="noreferrer"
           onClick={trackLead}
-          className="bg-green-500 px-6 py-4 rounded-xl font-bold text-white"
+          className="bg-green-500 px-6 py-4 rounded-xl font-bold text-white hover:scale-105 transition"
         >
           Register Now
         </a>
@@ -33,7 +33,7 @@ export default function CTA() {
           target="_blank"
           rel="noreferrer"
           onClick={trackContact}
-          className="bg-blue-500 px-6 py-4 rounded-xl font-bold text-white"
+          className="bg-blue-500 px-6 py-4 rounded-xl font-bold text-white hover:scale-105 transition"
         >
           Join Telegram
         </a>
