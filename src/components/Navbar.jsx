@@ -3,7 +3,7 @@ export default function Navbar() {
     <nav className="sticky top-0 z-50 backdrop-blur-md bg-white/80 shadow-md border-b border-green-200">
      <div className="relative z-10 max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 items-center">
 
-        <h1 className="text-3xl md:text-4xl font-bold">
+        <h1 className="text-4xl md:text-7xl font-bold leading-tight">
           <span className="text-yellow-500">Paisa</span>
           <span className="text-green-600">BASE</span>
         </h1>
