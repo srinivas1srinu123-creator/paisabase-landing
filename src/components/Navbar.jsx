@@ -1,9 +1,9 @@
 export default function Navbar() {
   return (
     <nav className="sticky top-0 z-50 backdrop-blur-md bg-white/80 shadow-md border-b border-green-200">
-     <div className="relative z-10 max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 items-center">
+      <div className="max-w-7xl mx-auto px-4 md:px-6 py-4 flex flex-col md:flex-row justify-between items-center gap-4">
 
-        <h1 className="text-4xl md:text-7xl font-bold leading-tight">
+        <h1 className="text-3xl md:text-4xl font-bold">
           <span className="text-yellow-500">Paisa</span>
           <span className="text-green-600">BASE</span>
         </h1>
