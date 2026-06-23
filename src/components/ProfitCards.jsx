@@ -11,7 +11,7 @@ export default function ProfitCards() {
         </div>
 
         <div className="bg-gradient-to-r from-blue-500 to-cyan-500 p-[2px] rounded-2xl">
-          <div className="bg-white/90 backdrop-blur-md shadow-xlrounded-2xl p-8 text-center">
+          <div className="bg-white/90 backdrop-blur-md shadow-xl rounded-2xl p-8 text-center">
             <h2 className="text-5xl font-bold text-cyan-400">₹107–115</h2>
             <p className="text-xl mt-3">USDT Trading</p>
           </div>
