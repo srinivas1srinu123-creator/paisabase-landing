@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="absolute left-20 top-20 w-80 h-80 bg-green-300/30 rounded-full blur-3xl"></div>
       <div className="absolute left-40 bottom-20 w-60 h-60 bg-yellow-300/20 rounded-full blur-3xl"></div>
 
-      <div className="relative z-10 max-w-7xl mx-auto grid lg:grid-cols-2 gap-16 items-center">
+      <div className="relative z-10 max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 items-center">
 
         {/* Left Content */}
         <div>
