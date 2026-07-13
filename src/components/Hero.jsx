@@ -37,8 +37,8 @@ export default function Hero() {
           </p>
 
           <div className="mt-8 space-y-4 text-xl">
-            <p className="flex items-center gap-2">✅ 4.5% on INR Purchase</p>
-            <p className="flex items-center gap-2">✅ ₹107–115 on USDT</p>
+            <p className="flex items-center gap-2">✅ 5.5% on INR Purchase</p>
+            <p className="flex items-center gap-2">✅ ₹108–112 on USDT</p>
             <p className="flex items-center gap-2">✅ Whole Number Payouts</p>
             <p className="flex items-center gap-2">✅ Fast Withdrawals</p>
           </div>
