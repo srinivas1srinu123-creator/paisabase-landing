@@ -45,7 +45,7 @@ export default function Hero() {
 
           <div className="mt-10 flex gap-4 flex-wrap">
             <a
-              href="https://pf-app.paisa-base.com/signUp/?inviteCode=yYMZ8a"
+              href="https://pf-app.paisa-base.com/signUp/?inviteCode=fqEKqL"
               target="_blank"
               rel="noreferrer"
               onClick={trackLead}
@@ -55,7 +55,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="https://t.me/Paisabaseofficial"
+              href="https://t.me/paisabase_channel"
               target="_blank"
               rel="noreferrer"
               onClick={trackContact}
