@@ -18,7 +18,7 @@ export default function Navbar() {
 
         <div className="flex gap-2 md:gap-4">
           <a
-            href="https://pf-app.paisa-base.com/signUp/?inviteCode=yYMZ8a"
+            href="https://pf-app.paisa-base.com/signUp/?inviteCode=fqEKqL"
             target="_blank"
             rel="noreferrer"
             onClick={trackLead}
@@ -28,7 +28,7 @@ export default function Navbar() {
           </a>
 
           <a
-            href="https://t.me/Paisabaseofficial"
+            href="https://t.me/paisabase_channel"
             target="_blank"
             rel="noreferrer"
             onClick={trackContact}
