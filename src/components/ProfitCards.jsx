@@ -5,14 +5,14 @@ export default function ProfitCards() {
 
         <div className="bg-gradient-to-r from-green-500 to-cyan-500 p-[2px] rounded-2xl">
           <div className="bg-white/90 backdrop-blur-md shadow-xl rounded-2xl p-8 text-center">
-            <h2 className="text-5xl font-bold text-green-400">4.5%</h2>
+            <h2 className="text-5xl font-bold text-green-400">5.5%</h2>
             <p className="text-xl mt-3">INR Purchase</p>
           </div>
         </div>
 
         <div className="bg-gradient-to-r from-blue-500 to-cyan-500 p-[2px] rounded-2xl">
           <div className="bg-white/90 backdrop-blur-md shadow-xl rounded-2xl p-8 text-center">
-            <h2 className="text-5xl font-bold text-cyan-400">₹107–115</h2>
+            <h2 className="text-5xl font-bold text-cyan-400">₹108–112</h2>
             <p className="text-xl mt-3">USDT Trading</p>
           </div>
         </div>
