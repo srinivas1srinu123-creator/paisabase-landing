@@ -28,7 +28,7 @@ export default function Navbar() {
           </a>
 
           <a
-            href="https://t.me/paisabase_channel"
+            href="https://telegram.me/paisabase_channel"
             target="_blank"
             rel="noreferrer"
             onClick={trackContact}
