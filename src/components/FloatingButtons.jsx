@@ -2,7 +2,7 @@ export default function FloatingButtons() {
   return (
     <div className="fixed bottom-4 right-2 md:bottom-6 md:right-6 z-50">
       <a
-        href="https://t.me/paisabase_channel"
+        href="https://telegram.me/paisabase_channel"
         target="_blank"
         rel="noreferrer"
         className="hover:scale-110 transition"
